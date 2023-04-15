@@ -1,2 +1,6 @@
 # travel
-Travelling plans and ideas
+
+Traveling plans and ideas
+
+ - [ ] [Madeira](madeira.md)
+
