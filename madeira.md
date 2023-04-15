@@ -1,6 +1,10 @@
 # Madeira
 
-
+ - [MIUT 115 Track](https://www.miutmadeira.com/en/race/115-course)
+ - Hike ideas: 
+   - Pico Areeiro - Pico Ruivo - Lapinha - Eira Corego - tunnel? - camp Boca das Voltas - Santana
+   - Porto Da Cruz - Vereda do Larano - São Lourenço - camp Casa do Sardinha
+ - [Camps](https://www.madeiracamping.com/)
 
 ## Past visits
 
