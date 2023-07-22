@@ -16,9 +16,18 @@ Flight tickets bought via pelikan.cz by Fly Play:
     Sat         09
     Sun 2023-09-10 15:00 KEF -> 20:50 PRG
 
+## Treks
+
+[Landmannalaugar - Skogar (Laugavegur) trail](https://www.fi.is/en/hiking-trails/trails/laugavegur)
+
+
 ## Moving
 
- - Tourist buses with [Reykajvik Excursions](https://www.re.is/) or [Grayline](https://grayline.is/tours).
+ - Tourist buses
+   - [Reykajvik Excursions](https://www.re.is/)
+   - [Grayline](https://grayline.is/tours)
+   - [Trex](https://trex.is/)
+   - [Reykajvik Excursions](https://www.re.is/highland-bus/)
  - Normal buses with [Straetó](https://straeto.is/en/route-planner/timetables/landsbyggdin) with KLAPP card
 
 ## Past visits
