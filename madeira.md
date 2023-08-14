@@ -5,6 +5,7 @@
    - Pico Areeiro - Pico Ruivo - Lapinha - Eira Corego - tunnel? - camp Boca das Voltas - Santana
    - Porto Da Cruz - Vereda do Larano - São Lourenço - camp Casa do Sardinha
  - [Camps](https://www.madeiracamping.com/)
+ - [Open and closed trails](https://visitmadeira.com/media/rcradgkh/percursos-pedestres-recomendados.pdf)
 
 ## Itinerary
 
