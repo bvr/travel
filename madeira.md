@@ -23,7 +23,9 @@
 | Sun |         27 | Machico                               |
 | Mon | 2023-08-28 | Machico, odlet 16:40 FNC -> 21:55 PRG |
 
- - [Parking at Prague airport](https://www.goparking.cz/parkovani/)
+ - Parking at Prague airport
+   - [Go parking](https://www.goparking.cz/parkovani/)
+   - [AeroParking](https://www.prg.aero/parkovani#dny)
 
 ## Past visits
 
