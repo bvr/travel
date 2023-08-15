@@ -9,19 +9,19 @@
 
 ## Itinerary
 
-| Day |       Date | Info                   |
-| --- | ---------: | ---------------------- |
-| Fri | 2023-08-18 | 12:20 PRG -> 15:55 FNC |
-| Sat |         19 |                        |
-| Sun |         20 |                        |
-| Mon |         21 |                        |
-| Tue |         22 |                        |
-| Wed |         23 |                        |
-| Thu |         24 |                        |
-| Fri |         25 |                        |
-| Sat |         26 |                        |
-| Sun |         27 |                        |
-| Mon | 2023-08-28 | 16:40 FNC -> 21:55 PRG |
+| Day |       Date | Info                                  |
+| --- | ---------: | ------------------------------------- |
+| Fri | 2023-08-18 | 12:20 PRG -> 15:55 FNC                |
+| Sat |         19 | Funchal                               |
+| Sun |         20 | Funchal                               |
+| Mon |         21 | Funchal                               |
+| Tue |         22 |                                       |
+| Wed |         23 |                                       |
+| Thu |         24 |                                       |
+| Fri |         25 |                                       |
+| Sat |         26 |                                       |
+| Sun |         27 | Machico                               |
+| Mon | 2023-08-28 | Machico, odlet 16:40 FNC -> 21:55 PRG |
 
  - [Parking at Prague airport](https://www.goparking.cz/parkovani/)
 
