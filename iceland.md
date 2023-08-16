@@ -1,8 +1,8 @@
 # Iceland
 
-Flight tickets bought via pelikan.cz by Fly Play:
-
 ## Itinerary
+
+Flight tickets bought via pelikan.cz by Fly Play:
 
 | Day |       Date | Info                                                                                   |
 | --- | ---------: | -------------------------------------------------------------------------------------- |
