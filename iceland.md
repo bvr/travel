@@ -32,6 +32,7 @@ Already paid:
 
  - [Blue Lagoon](https://www.bluelagoon.com/) - next to Keflavík airport
  - [Where the lava flows](https://www.viewsoftheworld.net/?p=5783) - Fagradalsfjall, close to Keflavík airport
+   - [Eruption map](http://www.viewsoftheworld.net/wp-content/uploads/2023/08/LitliHrutur_VolcanicEruptionMap_20230801.png)
 
 ## Moving
 
