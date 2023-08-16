@@ -31,16 +31,16 @@ Already paid:
 ## Sites
 
  - [Blue Lagoon](https://www.bluelagoon.com/) - next to Keflavík airport
-
+ - [Where the lava flows](https://www.viewsoftheworld.net/?p=5783) - Fagradalsfjall, close to Keflavík airport
 
 ## Moving
 
  - Tourist buses
-   - [Reykajvik Excursions][4]
-     - [Timetable to Landmannalaugar][5]
+   - [Reykajvik Excursions][4] - Highland bus
+     - [Timetable to Landmannalaugar, Skógar, and Þórsmörk][5]
    - [Grayline](https://grayline.is/tours)
    - [Trex](https://trex.is/)
-   - [Reykajvik Excursions](https://www.re.is/highland-bus/)
+
  - Normal buses with [Straetó](https://straeto.is/en/route-planner/timetables/landsbyggdin) with KLAPP card
    - 55 goes from Keflavík airport to Reykjavik, operates between 6.30 and 23.00 every hour
 
@@ -51,6 +51,6 @@ None
 [1]: https://happycampers.is/campsite-map/
 [2]: https://www.re.is/tour/landmannalaugar-iceland-on-your-own/
 [3]: https://www.fi.is/en/hiking-trails/trails/laugavegur
-[4]: https://www.re.is/
+[4]: https://www.re.is/highland-bus/
 [5]: https://assets.ctfassets.net/a68ipajj4t9l/e8rbPdX8BCnvwqS6zAras/05adadf8303ac39e8cd01273b1a34388/HB-Timatafla-s23_ready.pdf
 [6]: https://www.re.is/tour/skogar-iceland-on-your-own/
