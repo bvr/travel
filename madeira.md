@@ -2,32 +2,30 @@
 
  - [MIUT 115 Track](https://www.miutmadeira.com/en/race/115-course)
  - Hike ideas: 
-   - Pico Areeiro - Pico Ruivo - Lapinha - Eira Corego - tunnel? - camp Boca das Voltas - Santana
    - Porto Da Cruz - Vereda do Larano - São Lourenço - camp Casa do Sardinha
  - [Camps](https://www.madeiracamping.com/)
  - [Open and closed trails](https://visitmadeira.com/media/rcradgkh/percursos-pedestres-recomendados.pdf)
-
-## Itinerary
-
-| Day |       Date | Info                                  |
-| --- | ---------: | ------------------------------------- |
-| Fri | 2023-08-18 | 12:20 PRG -> 15:55 FNC                |
-| Sat |         19 | Funchal                               |
-| Sun |         20 | Funchal                               |
-| Mon |         21 | Funchal - Pico Arieero                |
-| Tue |         22 |                                       |
-| Wed |         23 |                                       |
-| Thu |         24 |                                       |
-| Fri |         25 | - Sao Lourenço                        |
-| Sat |         26 | Sao Lourenço                          |
-| Sun |         27 | Sao Lourenço - Machico                |
-| Mon | 2023-08-28 | Machico, odlet 16:40 FNC -> 21:55 PRG |
-
  - Parking at Prague airport
    - [Go parking](https://www.goparking.cz/parkovani/)
    - [AeroParking](https://www.prg.aero/parkovani#dny)
 
 ## Past visits
+
+### August 18 - 28, 2023
+
+| Day |       Date | Info                                                                                                                                                                                 |
+| --- | ---------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Fri | 2023-08-18 | 12:20 PRG -> 15:55 FNC, move with Aerobus to Funchal (Lido station), walk to [Vila Lusitânia][1]                                                                                     |
+| Sat |         19 | Funchal, town exploration, port, swimming at public beach, reserved the trip for dolphins                                                                                            |
+| Sun |         20 | Funchal, raining, pool, at the evening catamaran trip with [Atlantic Pearl][2]                                                                                                       |
+| Mon |         21 | Funchal exploration, taxi to Pico Arieero, trip to Pico Ruivo, night at the camp near the chalet                                                                                     |
+| Tue |         22 | Pico Ruivo trail PR1.3, close to Pico Coelho north trail to Boca das Voltas                                                                                                          |
+| Wed |         23 | Boca das Voltas slightly back, down the trail to Levada dos Tornos, tunnel to Chao das Faias, connection to PR1.1 and Levada do Calderao Verde to Queimadas and Pico das Padras camp |
+| Thu |         24 | Rest day with trip to Queimadas                                                                                                                                                      |
+| Fri |         25 | Taxi to Porto da Cruz, swimming, connection bus to Machico and Sao Lourenço, walk to campsite at Casa do Sardinha                                                                    |
+| Sat |         26 | Back to Baia D'Abra, bus to Machico, accomodation at [White Waters Hotel][3]                                                                                                         |
+| Sun |         27 | Bus to Canical, Whale Museum, swimming, bus to Machico                                                                                                                               |
+| Mon | 2023-08-28 | Machico, bus to aeroport, 16:40 FNC -> 21:55 PRG                                                                                                                                     |
 
 ### September 24 - October 1, 2018
 
@@ -36,7 +34,7 @@
  - 4 days hike - Porto Moníz - Ribeira da Janela - Fanal (1197m) - Miradouro (1258m) over Rabaçalu valley - levada das 25 Fontes - levada do Risco - Chalet Rabaçal (1130m) - Fatima Chapel (1326m) - levada do Paul - camp Estanquinhos (1568m) - levada do Plaino Velho - Boca da Encumeada (1047m)
  - Machico and surrounding
 
-### July 10 - July 18, 2015
+### July 10 - 18, 2015
 
  - Lisboa visit
  - Capital Funchal - 2 days
@@ -44,3 +42,8 @@
  - 1 day hike - São Lourenço
  - Caniçal
  - Machico
+
+
+[1]: https://www.booking.com/hotel/pt/guesthouse-vila-lusitania.html
+[2]: https://atlanticpearl-catamaran.com/tours/
+[3]: http://www.hotelwhitewaters.com/

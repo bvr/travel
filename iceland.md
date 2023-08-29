@@ -4,6 +4,8 @@
 
 Flight tickets bought via pelikan.cz by Fly Play:
 
+Parking at the airport reserved at [Go parking](https://www.goparking.cz/parkovani/)
+
 | Day |       Date | Info                                                                                   |
 | --- | ---------: | -------------------------------------------------------------------------------------- |
 | Thu | 2023-08-31 | 21:50 PRG -> 23:55 KEF, move to [Happy Campers][1]                                     |
