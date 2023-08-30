@@ -15,15 +15,18 @@ Parking at the airport reserved at [Go parking](https://www.goparking.cz/parkova
 | Mon |         04 | over Hvanngil to Emstrur (15.7km, 7.49 hours)                                          |
 | Tue |         05 | to Þórsmörk (15.8km, 9.12 hours), 18km over Volcano Huts                               |
 | Wed |         06 | to Baldvinsskáli (12.4km, 6.25 hours)                                                  |
-| Thu |         07 | to Skógar (12.8, 3.27 hours)                                                           |
+| Thu |         07 | to Skógar (12.8km, 3.27 hours)                                                         |
 | Fri |         08 | [10.15 departure][6] to Reykjavik 19.30                                                |
 | Sat |         09 | Fagradalsfjall, Blue Lagoon                                                            |
 | Sun | 2023-09-10 | 15:00 KEF -> 20:50 PRG                                                                 |
+
+About 67km total.
 
 Already paid:
 
  - Happy Campers at Keflavík
  - RE highland bus to Landmannalaugar and from Skógar
+ - Hotel for two nights at Reykjavik
 
 ## Treks
 
@@ -39,7 +42,7 @@ Already paid:
 ## Moving
 
  - Tourist buses
-   - [Reykajvik Excursions][4] - Highland bus
+   - [Reykjavik Excursions][4] - Highland bus
      - [Timetable to Landmannalaugar, Skógar, and Þórsmörk][5]
    - [Grayline](https://grayline.is/tours)
    - [Trex](https://trex.is/)
