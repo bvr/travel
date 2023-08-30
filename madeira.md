@@ -18,14 +18,14 @@
 | Fri | 2023-08-18 | 12:20 PRG -> 15:55 FNC, move with Aerobus to Funchal (Lido station), walk to [Vila Lusitânia][1]                                                                                     |
 | Sat |         19 | Funchal, town exploration, port, swimming at public beach, reserved the trip for dolphins                                                                                            |
 | Sun |         20 | Funchal, raining, pool, at the evening catamaran trip with [Atlantic Pearl][2]                                                                                                       |
-| Mon |         21 | Funchal exploration, taxi to Pico Arieero, trip to Pico Ruivo, night at the camp near the chalet                                                                                     |
+| Mon |         21 | Funchal exploration, taxi to Pico Areeiro, trip to Pico Ruivo, night at the camp near the chalet                                                                                     |
 | Tue |         22 | Pico Ruivo trail PR1.3, close to Pico Coelho north trail to Boca das Voltas                                                                                                          |
 | Wed |         23 | Boca das Voltas slightly back, down the trail to Levada dos Tornos, tunnel to Chao das Faias, connection to PR1.1 and Levada do Calderao Verde to Queimadas and Pico das Padras camp |
 | Thu |         24 | Rest day with trip to Queimadas                                                                                                                                                      |
-| Fri |         25 | Taxi to Porto da Cruz, swimming, connection bus to Machico and Sao Lourenço, walk to campsite at Casa do Sardinha                                                                    |
-| Sat |         26 | Back to Baia D'Abra, bus to Machico, accomodation at [White Waters Hotel][3]                                                                                                         |
-| Sun |         27 | Bus to Canical, Whale Museum, swimming, bus to Machico                                                                                                                               |
-| Mon | 2023-08-28 | Machico, bus to aeroport, 16:40 FNC -> 21:55 PRG                                                                                                                                     |
+| Fri |         25 | Taxi to Porto da Cruz, swimming, connection bus to Machico and São Lourenço, walk to campsite at Casa do Sardinha                                                                    |
+| Sat |         26 | Back to Baia D'Abra, bus to Machico, accommodation at [White Waters Hotel][3]                                                                                                        |
+| Sun |         27 | Bus to Caniçal, Whale Museum, swimming, bus to Machico                                                                                                                               |
+| Mon | 2023-08-28 | Machico, bus to airport, 16:40 FNC -> 21:55 PRG                                                                                                                                      |
 
 ### September 24 - October 1, 2018
 
