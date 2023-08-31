@@ -2,7 +2,7 @@
 
 ## Itinerary
 
-Flight tickets bought via pelikan.cz by Fly Play:
+Flight tickets bought via pelikan.cz by Fly Play - booking number M1AW5M, flight OG535
 
 Parking at the airport reserved at [Go parking](https://www.goparking.cz/parkovani/)
 
